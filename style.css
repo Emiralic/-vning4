@@ -1,0 +1,46 @@
+div {
+    width: 650px;
+    height: 600px;
+    padding: 50px;
+    border: 7px solid rgb(12, 12, 12);
+    background: color: #aaa0a0;
+    text align-self: center;
+    margin-top: 50px;
+    
+  }
+  
+  .content-box {
+    box-sizing: content-box;
+    padding: auto;
+    margin: auto;
+    margin-top: 7em;
+  
+  }
+  
+  .border-box {
+    box-sizing: border-box;
+    margin-top: 100px;
+
+  }
+  body {
+    background-image: url(nick-karvounis-e9bho1OWGa0-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: #d3cbcb;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    font: italic small-caps bold 16px/2 cursive;
+    text-align: center;
+
+  }
+
+  section {
+    font: italic small-caps bold 16px/2 cursive;
+  }
+  
+  article {
+    font: italic small-caps bold 12px/2 cursive;
+  }
